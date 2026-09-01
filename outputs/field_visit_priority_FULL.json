@@ -1,0 +1,1314 @@
+[
+  {
+    "lat": 35.7338,
+    "lng": 51.19557,
+    "area_ha": 34.14,
+    "ndvi_mean": 0.127,
+    "lst_mean": 50.9,
+    "n_cells": 372
+  },
+  {
+    "lat": 35.72262,
+    "lng": 51.20587,
+    "area_ha": 29.37,
+    "ndvi_mean": 0.112,
+    "lst_mean": 50.3,
+    "n_cells": 321
+  },
+  {
+    "lat": 35.75112,
+    "lng": 51.22349,
+    "area_ha": 20.55,
+    "ndvi_mean": 0.084,
+    "lst_mean": 50.0,
+    "n_cells": 224
+  },
+  {
+    "lat": 35.74088,
+    "lng": 51.22909,
+    "area_ha": 15.36,
+    "ndvi_mean": 0.086,
+    "lst_mean": 52.4,
+    "n_cells": 169
+  },
+  {
+    "lat": 35.73059,
+    "lng": 51.22898,
+    "area_ha": 14.38,
+    "ndvi_mean": 0.097,
+    "lst_mean": 50.7,
+    "n_cells": 157
+  },
+  {
+    "lat": 35.7288,
+    "lng": 51.21287,
+    "area_ha": 10.85,
+    "ndvi_mean": 0.134,
+    "lst_mean": 50.7,
+    "n_cells": 118
+  },
+  {
+    "lat": 35.75808,
+    "lng": 51.2159,
+    "area_ha": 10.73,
+    "ndvi_mean": 0.078,
+    "lst_mean": 51.5,
+    "n_cells": 117
+  },
+  {
+    "lat": 35.73772,
+    "lng": 51.22924,
+    "area_ha": 10.45,
+    "ndvi_mean": 0.1,
+    "lst_mean": 52.2,
+    "n_cells": 114
+  },
+  {
+    "lat": 35.74947,
+    "lng": 51.19793,
+    "area_ha": 10.41,
+    "ndvi_mean": 0.104,
+    "lst_mean": 51.9,
+    "n_cells": 114
+  },
+  {
+    "lat": 35.74414,
+    "lng": 51.1891,
+    "area_ha": 10.05,
+    "ndvi_mean": 0.115,
+    "lst_mean": 50.9,
+    "n_cells": 110
+  },
+  {
+    "lat": 35.74758,
+    "lng": 51.19136,
+    "area_ha": 8.93,
+    "ndvi_mean": 0.08,
+    "lst_mean": 50.0,
+    "n_cells": 97
+  },
+  {
+    "lat": 35.72952,
+    "lng": 51.2046,
+    "area_ha": 8.14,
+    "ndvi_mean": 0.135,
+    "lst_mean": 50.6,
+    "n_cells": 89
+  },
+  {
+    "lat": 35.75371,
+    "lng": 51.20294,
+    "area_ha": 7.14,
+    "ndvi_mean": 0.087,
+    "lst_mean": 49.9,
+    "n_cells": 78
+  },
+  {
+    "lat": 35.73962,
+    "lng": 51.20856,
+    "area_ha": 6.59,
+    "ndvi_mean": 0.126,
+    "lst_mean": 50.2,
+    "n_cells": 72
+  },
+  {
+    "lat": 35.74323,
+    "lng": 51.22603,
+    "area_ha": 6.35,
+    "ndvi_mean": 0.073,
+    "lst_mean": 51.1,
+    "n_cells": 69
+  },
+  {
+    "lat": 35.73394,
+    "lng": 51.21431,
+    "area_ha": 5.77,
+    "ndvi_mean": 0.14,
+    "lst_mean": 51.8,
+    "n_cells": 63
+  },
+  {
+    "lat": 35.74377,
+    "lng": 51.19423,
+    "area_ha": 5.03,
+    "ndvi_mean": 0.126,
+    "lst_mean": 50.0,
+    "n_cells": 55
+  },
+  {
+    "lat": 35.74237,
+    "lng": 51.23758,
+    "area_ha": 4.97,
+    "ndvi_mean": 0.113,
+    "lst_mean": 50.4,
+    "n_cells": 54
+  },
+  {
+    "lat": 35.73001,
+    "lng": 51.21775,
+    "area_ha": 3.39,
+    "ndvi_mean": 0.138,
+    "lst_mean": 52.3,
+    "n_cells": 37
+  },
+  {
+    "lat": 35.74118,
+    "lng": 51.20506,
+    "area_ha": 3.14,
+    "ndvi_mean": 0.148,
+    "lst_mean": 50.0,
+    "n_cells": 34
+  },
+  {
+    "lat": 35.73579,
+    "lng": 51.20161,
+    "area_ha": 2.85,
+    "ndvi_mean": 0.142,
+    "lst_mean": 49.7,
+    "n_cells": 31
+  },
+  {
+    "lat": 35.73698,
+    "lng": 51.21013,
+    "area_ha": 2.84,
+    "ndvi_mean": 0.142,
+    "lst_mean": 50.0,
+    "n_cells": 31
+  },
+  {
+    "lat": 35.74019,
+    "lng": 51.20184,
+    "area_ha": 2.58,
+    "ndvi_mean": 0.13,
+    "lst_mean": 49.2,
+    "n_cells": 28
+  },
+  {
+    "lat": 35.75197,
+    "lng": 51.19971,
+    "area_ha": 2.2,
+    "ndvi_mean": 0.115,
+    "lst_mean": 50.3,
+    "n_cells": 24
+  },
+  {
+    "lat": 35.72742,
+    "lng": 51.20931,
+    "area_ha": 2.12,
+    "ndvi_mean": 0.135,
+    "lst_mean": 49.1,
+    "n_cells": 23
+  },
+  {
+    "lat": 35.72864,
+    "lng": 51.20166,
+    "area_ha": 1.93,
+    "ndvi_mean": 0.136,
+    "lst_mean": 50.8,
+    "n_cells": 21
+  },
+  {
+    "lat": 35.73895,
+    "lng": 51.18694,
+    "area_ha": 1.93,
+    "ndvi_mean": 0.138,
+    "lst_mean": 50.2,
+    "n_cells": 21
+  },
+  {
+    "lat": 35.73298,
+    "lng": 51.19154,
+    "area_ha": 1.84,
+    "ndvi_mean": 0.069,
+    "lst_mean": 49.2,
+    "n_cells": 20
+  },
+  {
+    "lat": 35.73925,
+    "lng": 51.23336,
+    "area_ha": 1.76,
+    "ndvi_mean": 0.135,
+    "lst_mean": 53.1,
+    "n_cells": 19
+  },
+  {
+    "lat": 35.72904,
+    "lng": 51.22411,
+    "area_ha": 1.66,
+    "ndvi_mean": 0.131,
+    "lst_mean": 49.9,
+    "n_cells": 18
+  },
+  {
+    "lat": 35.75856,
+    "lng": 51.20737,
+    "area_ha": 1.57,
+    "ndvi_mean": 0.102,
+    "lst_mean": 49.3,
+    "n_cells": 17
+  },
+  {
+    "lat": 35.73806,
+    "lng": 51.22232,
+    "area_ha": 1.28,
+    "ndvi_mean": 0.093,
+    "lst_mean": 49.7,
+    "n_cells": 14
+  },
+  {
+    "lat": 35.75319,
+    "lng": 51.22759,
+    "area_ha": 1.21,
+    "ndvi_mean": 0.098,
+    "lst_mean": 50.6,
+    "n_cells": 13
+  },
+  {
+    "lat": 35.7249,
+    "lng": 51.21044,
+    "area_ha": 1.19,
+    "ndvi_mean": 0.138,
+    "lst_mean": 49.3,
+    "n_cells": 13
+  },
+  {
+    "lat": 35.72508,
+    "lng": 51.19804,
+    "area_ha": 1.19,
+    "ndvi_mean": 0.095,
+    "lst_mean": 48.9,
+    "n_cells": 13
+  },
+  {
+    "lat": 35.7288,
+    "lng": 51.22142,
+    "area_ha": 1.12,
+    "ndvi_mean": 0.105,
+    "lst_mean": 48.9,
+    "n_cells": 12
+  },
+  {
+    "lat": 35.7442,
+    "lng": 51.20164,
+    "area_ha": 1.1,
+    "ndvi_mean": 0.145,
+    "lst_mean": 49.3,
+    "n_cells": 12
+  },
+  {
+    "lat": 35.72832,
+    "lng": 51.19737,
+    "area_ha": 1.1,
+    "ndvi_mean": 0.14,
+    "lst_mean": 49.8,
+    "n_cells": 12
+  },
+  {
+    "lat": 35.74551,
+    "lng": 51.22595,
+    "area_ha": 1.09,
+    "ndvi_mean": 0.071,
+    "lst_mean": 49.3,
+    "n_cells": 12
+  },
+  {
+    "lat": 35.74366,
+    "lng": 51.18708,
+    "area_ha": 1.0,
+    "ndvi_mean": 0.135,
+    "lst_mean": 50.8,
+    "n_cells": 11
+  },
+  {
+    "lat": 35.73643,
+    "lng": 51.21499,
+    "area_ha": 0.84,
+    "ndvi_mean": 0.151,
+    "lst_mean": 50.0,
+    "n_cells": 9
+  },
+  {
+    "lat": 35.7381,
+    "lng": 51.23192,
+    "area_ha": 0.83,
+    "ndvi_mean": 0.09,
+    "lst_mean": 52.6,
+    "n_cells": 9
+  },
+  {
+    "lat": 35.73076,
+    "lng": 51.20775,
+    "area_ha": 0.83,
+    "ndvi_mean": 0.136,
+    "lst_mean": 48.7,
+    "n_cells": 9
+  },
+  {
+    "lat": 35.72657,
+    "lng": 51.19749,
+    "area_ha": 0.83,
+    "ndvi_mean": 0.136,
+    "lst_mean": 49.2,
+    "n_cells": 9
+  },
+  {
+    "lat": 35.73502,
+    "lng": 51.22906,
+    "area_ha": 0.82,
+    "ndvi_mean": 0.101,
+    "lst_mean": 50.3,
+    "n_cells": 9
+  },
+  {
+    "lat": 35.74041,
+    "lng": 51.18633,
+    "area_ha": 0.74,
+    "ndvi_mean": 0.122,
+    "lst_mean": 50.8,
+    "n_cells": 8
+  },
+  {
+    "lat": 35.72828,
+    "lng": 51.21831,
+    "area_ha": 0.73,
+    "ndvi_mean": 0.136,
+    "lst_mean": 51.2,
+    "n_cells": 8
+  },
+  {
+    "lat": 35.73843,
+    "lng": 51.2132,
+    "area_ha": 0.73,
+    "ndvi_mean": 0.13,
+    "lst_mean": 48.9,
+    "n_cells": 8
+  },
+  {
+    "lat": 35.73922,
+    "lng": 51.2117,
+    "area_ha": 0.73,
+    "ndvi_mean": 0.12,
+    "lst_mean": 49.3,
+    "n_cells": 8
+  },
+  {
+    "lat": 35.7325,
+    "lng": 51.20357,
+    "area_ha": 0.65,
+    "ndvi_mean": 0.15,
+    "lst_mean": 49.5,
+    "n_cells": 7
+  },
+  {
+    "lat": 35.74008,
+    "lng": 51.19519,
+    "area_ha": 0.65,
+    "ndvi_mean": 0.126,
+    "lst_mean": 48.5,
+    "n_cells": 7
+  },
+  {
+    "lat": 35.73799,
+    "lng": 51.21985,
+    "area_ha": 0.55,
+    "ndvi_mean": 0.099,
+    "lst_mean": 49.1,
+    "n_cells": 6
+  },
+  {
+    "lat": 35.73927,
+    "lng": 51.23578,
+    "area_ha": 0.46,
+    "ndvi_mean": 0.116,
+    "lst_mean": 52.2,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.72748,
+    "lng": 51.20298,
+    "area_ha": 0.46,
+    "ndvi_mean": 0.145,
+    "lst_mean": 50.7,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.72998,
+    "lng": 51.19694,
+    "area_ha": 0.46,
+    "ndvi_mean": 0.14,
+    "lst_mean": 49.7,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.72576,
+    "lng": 51.19587,
+    "area_ha": 0.46,
+    "ndvi_mean": 0.083,
+    "lst_mean": 48.7,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.74468,
+    "lng": 51.2364,
+    "area_ha": 0.45,
+    "ndvi_mean": 0.116,
+    "lst_mean": 48.9,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.73144,
+    "lng": 51.19695,
+    "area_ha": 0.45,
+    "ndvi_mean": 0.14,
+    "lst_mean": 49.7,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.73853,
+    "lng": 51.19491,
+    "area_ha": 0.45,
+    "ndvi_mean": 0.118,
+    "lst_mean": 49.1,
+    "n_cells": 5
+  },
+  {
+    "lat": 35.7424,
+    "lng": 51.22776,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.071,
+    "lst_mean": 51.8,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.73187,
+    "lng": 51.21778,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.147,
+    "lst_mean": 50.2,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.72613,
+    "lng": 51.21163,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.139,
+    "lst_mean": 49.5,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.73358,
+    "lng": 51.20418,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.15,
+    "lst_mean": 49.7,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.73244,
+    "lng": 51.20219,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.138,
+    "lst_mean": 48.7,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.73732,
+    "lng": 51.19582,
+    "area_ha": 0.37,
+    "ndvi_mean": 0.155,
+    "lst_mean": 49.9,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.75471,
+    "lng": 51.22299,
+    "area_ha": 0.36,
+    "ndvi_mean": 0.077,
+    "lst_mean": 48.8,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.72188,
+    "lng": 51.20631,
+    "area_ha": 0.36,
+    "ndvi_mean": 0.14,
+    "lst_mean": 49.6,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.72594,
+    "lng": 51.203,
+    "area_ha": 0.36,
+    "ndvi_mean": 0.153,
+    "lst_mean": 50.0,
+    "n_cells": 4
+  },
+  {
+    "lat": 35.74352,
+    "lng": 51.23086,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.12,
+    "lst_mean": 49.7,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74596,
+    "lng": 51.22467,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.053,
+    "lst_mean": 49.5,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.72848,
+    "lng": 51.21965,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.149,
+    "lst_mean": 50.3,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.75806,
+    "lng": 51.21929,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.081,
+    "lst_mean": 50.9,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.73022,
+    "lng": 51.20893,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.149,
+    "lst_mean": 48.8,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.75276,
+    "lng": 51.20534,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.06,
+    "lst_mean": 49.9,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.72238,
+    "lng": 51.20448,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.124,
+    "lst_mean": 50.0,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.7269,
+    "lng": 51.2004,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.159,
+    "lst_mean": 49.6,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74187,
+    "lng": 51.19326,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.106,
+    "lst_mean": 49.1,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74097,
+    "lng": 51.19337,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.11,
+    "lst_mean": 49.1,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74115,
+    "lng": 51.19226,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.109,
+    "lst_mean": 48.9,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.75008,
+    "lng": 51.1904,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.053,
+    "lst_mean": 49.9,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74234,
+    "lng": 51.18673,
+    "area_ha": 0.28,
+    "ndvi_mean": 0.145,
+    "lst_mean": 49.0,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.72309,
+    "lng": 51.21212,
+    "area_ha": 0.27,
+    "ndvi_mean": 0.161,
+    "lst_mean": 49.1,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74071,
+    "lng": 51.18529,
+    "area_ha": 0.27,
+    "ndvi_mean": 0.14,
+    "lst_mean": 51.1,
+    "n_cells": 3
+  },
+  {
+    "lat": 35.74022,
+    "lng": 51.23589,
+    "area_ha": 0.19,
+    "ndvi_mean": 0.077,
+    "lst_mean": 51.7,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74108,
+    "lng": 51.20868,
+    "area_ha": 0.19,
+    "ndvi_mean": 0.105,
+    "lst_mean": 48.7,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.75596,
+    "lng": 51.20839,
+    "area_ha": 0.19,
+    "ndvi_mean": 0.056,
+    "lst_mean": 48.7,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72676,
+    "lng": 51.19902,
+    "area_ha": 0.19,
+    "ndvi_mean": 0.156,
+    "lst_mean": 50.1,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74279,
+    "lng": 51.23291,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.077,
+    "lst_mean": 50.5,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74253,
+    "lng": 51.23158,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.13,
+    "lst_mean": 50.5,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73279,
+    "lng": 51.23089,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.101,
+    "lst_mean": 49.3,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74253,
+    "lng": 51.23058,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.104,
+    "lst_mean": 50.2,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74334,
+    "lng": 51.22793,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.053,
+    "lst_mean": 51.4,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73361,
+    "lng": 51.2279,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.103,
+    "lst_mean": 50.8,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72955,
+    "lng": 51.22789,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.072,
+    "lst_mean": 49.5,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72727,
+    "lng": 51.21644,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.151,
+    "lst_mean": 52.8,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73607,
+    "lng": 51.21464,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.147,
+    "lst_mean": 50.8,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72592,
+    "lng": 51.21412,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.148,
+    "lst_mean": 50.5,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72065,
+    "lng": 51.21062,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.122,
+    "lst_mean": 49.1,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.75338,
+    "lng": 51.21037,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.056,
+    "lst_mean": 48.8,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72093,
+    "lng": 51.20962,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.132,
+    "lst_mean": 49.4,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.7212,
+    "lng": 51.20863,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.12,
+    "lst_mean": 49.1,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.75677,
+    "lng": 51.20856,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.067,
+    "lst_mean": 49.3,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.72147,
+    "lng": 51.20764,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.123,
+    "lst_mean": 49.1,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73515,
+    "lng": 51.19589,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.127,
+    "lst_mean": 50.8,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73394,
+    "lng": 51.19009,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.068,
+    "lst_mean": 48.6,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.74152,
+    "lng": 51.18645,
+    "area_ha": 0.18,
+    "ndvi_mean": 0.137,
+    "lst_mean": 49.7,
+    "n_cells": 2
+  },
+  {
+    "lat": 35.73954,
+    "lng": 51.23771,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.127,
+    "lst_mean": 51.3,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74035,
+    "lng": 51.23738,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.059,
+    "lst_mean": 50.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73765,
+    "lng": 51.23737,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.065,
+    "lst_mean": 50.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74333,
+    "lng": 51.23407,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.054,
+    "lst_mean": 48.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73792,
+    "lng": 51.23405,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.145,
+    "lst_mean": 49.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74279,
+    "lng": 51.23374,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.055,
+    "lst_mean": 50.0,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73711,
+    "lng": 51.23272,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.134,
+    "lst_mean": 49.1,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73143,
+    "lng": 51.23204,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.136,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73225,
+    "lng": 51.23138,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.146,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73982,
+    "lng": 51.23074,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.1,
+    "lst_mean": 52.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73874,
+    "lng": 51.23074,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.09,
+    "lst_mean": 53.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73333,
+    "lng": 51.23072,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.145,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73306,
+    "lng": 51.22973,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.098,
+    "lst_mean": 50.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74253,
+    "lng": 51.22909,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.125,
+    "lst_mean": 51.0,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73415,
+    "lng": 51.22874,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.059,
+    "lst_mean": 50.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73469,
+    "lng": 51.22675,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.132,
+    "lst_mean": 49.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74714,
+    "lng": 51.22479,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.082,
+    "lst_mean": 49.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.7301,
+    "lng": 51.22375,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.064,
+    "lst_mean": 50.3,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72848,
+    "lng": 51.22275,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.16,
+    "lst_mean": 49.2,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72902,
+    "lng": 51.22242,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.104,
+    "lst_mean": 49.2,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72821,
+    "lng": 51.22042,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.089,
+    "lst_mean": 48.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72983,
+    "lng": 51.21977,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.152,
+    "lst_mean": 49.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75878,
+    "lng": 51.21918,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.092,
+    "lst_mean": 50.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73849,
+    "lng": 51.21879,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.114,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72767,
+    "lng": 51.21777,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.163,
+    "lst_mean": 51.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73336,
+    "lng": 51.21745,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.153,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73146,
+    "lng": 51.21645,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.16,
+    "lst_mean": 49.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73525,
+    "lng": 51.2158,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.163,
+    "lst_mean": 48.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73065,
+    "lng": 51.21512,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.163,
+    "lst_mean": 50.1,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73769,
+    "lng": 51.21415,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.158,
+    "lst_mean": 49.2,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75771,
+    "lng": 51.21055,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.152,
+    "lst_mean": 49.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75663,
+    "lng": 51.20988,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.138,
+    "lst_mean": 49.2,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75934,
+    "lng": 51.20956,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.148,
+    "lst_mean": 49.0,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74203,
+    "lng": 51.20786,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.161,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74203,
+    "lng": 51.20719,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.159,
+    "lst_mean": 48.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73851,
+    "lng": 51.20685,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.154,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73094,
+    "lng": 51.2055,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.153,
+    "lst_mean": 49.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72688,
+    "lng": 51.20516,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.15,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73257,
+    "lng": 51.20484,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.149,
+    "lst_mean": 49.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72283,
+    "lng": 51.20316,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.16,
+    "lst_mean": 49.9,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73771,
+    "lng": 51.2022,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.155,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.7488,
+    "lng": 51.20124,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.076,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74934,
+    "lng": 51.20091,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.105,
+    "lst_mean": 48.7,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75719,
+    "lng": 51.20059,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.066,
+    "lst_mean": 49.0,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72797,
+    "lng": 51.20052,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.161,
+    "lst_mean": 49.3,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73852,
+    "lng": 51.19988,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.132,
+    "lst_mean": 48.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72446,
+    "lng": 51.19985,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.115,
+    "lst_mean": 49.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75232,
+    "lng": 51.19826,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.066,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.73096,
+    "lng": 51.19754,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.152,
+    "lst_mean": 48.5,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.75179,
+    "lng": 51.19593,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.054,
+    "lst_mean": 50.2,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74259,
+    "lng": 51.19591,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.148,
+    "lst_mean": 48.8,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.72933,
+    "lng": 51.19588,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.159,
+    "lst_mean": 51.1,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74232,
+    "lng": 51.19392,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.148,
+    "lst_mean": 48.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74124,
+    "lng": 51.19392,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.112,
+    "lst_mean": 48.6,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74422,
+    "lng": 51.19193,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.091,
+    "lst_mean": 50.1,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74341,
+    "lng": 51.19127,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.131,
+    "lst_mean": 49.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74936,
+    "lng": 51.19029,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.051,
+    "lst_mean": 50.4,
+    "n_cells": 1
+  },
+  {
+    "lat": 35.74666,
+    "lng": 51.18862,
+    "area_ha": 0.09,
+    "ndvi_mean": 0.123,
+    "lst_mean": 49.7,
+    "n_cells": 1
+  }
+]

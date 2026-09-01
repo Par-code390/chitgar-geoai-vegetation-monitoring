@@ -1,0 +1,12 @@
+{
+  "total_vegetated_cells": 14506,
+  "excluded_water_cells": 3246,
+  "isolation_forest_anomalies_10pct": 1451,
+  "stress_candidates_declining_hot_lowNDVI": 3604,
+  "stress_candidates_pct_of_vegetation": 24.8,
+  "whole_park_negative_trend_pct": 64.2,
+  "LST_mean_overall_C": 48.01,
+  "LST_trend_mean_C_per_year": 0.219,
+  "LST_total_change_10yr_C": 2.19,
+  "isolation_forest_note": "Isolation Forest predominantly surfaces statistically rare dense/healthy forest cores (not stress zones), because the 64% park-wide decline is too common to register as a rare anomaly. Explicit threshold-based stress_candidate flag used instead for stress mapping."
+}
